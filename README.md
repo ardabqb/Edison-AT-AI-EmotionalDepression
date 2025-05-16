@@ -5,8 +5,9 @@ Edison AT is software / program Depression Assistant personal.
 
 Feature:
 - Analyze emotional real-time from face.
-- Audio Edison(Comingsoon release).
-- Audio emotional analyze(Comingsoon).
+- Edison hear human.
+- Edison understand typing human.
+- Analyz Speech Human Depression.
 
 Beta Version: 1.0
 
